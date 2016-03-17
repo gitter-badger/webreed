@@ -1,5 +1,7 @@
 # webreed
 
+[![Join the chat at https://gitter.im/webreed/webreed](https://badges.gitter.im/webreed/webreed.svg)](https://gitter.im/webreed/webreed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Webreed aims to be a simple yet flexible static website generator.
 
 [![Build Status](https://travis-ci.org/webreed/webreed.svg?branch=master)](https://travis-ci.org/webreed/webreed)
